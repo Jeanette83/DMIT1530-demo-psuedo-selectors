@@ -30,6 +30,11 @@ section:nth-child(4){
 section:nth-child(5){
     background-color: slateblue;
 }
-section:nth-child(6){
+section:last-child{
     background-color: purple;
+}
+
+section:only-child {
+    background-color: whitesmoke;
+    color: darkslateblue;
 }
