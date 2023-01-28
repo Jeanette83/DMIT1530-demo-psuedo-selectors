@@ -10,6 +10,26 @@ section {
     text-align: center;
 }
 
-section {
+section:first-child {
     background-color: crimson;
+}
+
+section:nth-child(2){
+    background-color: tomato;
+}
+
+section:nth-child(2){
+    background-color: khaki;
+}
+section:nth-child(2){
+    background-color: lightgreen;
+}
+section:nth-child(2){
+    background-color: lightseagreen;
+}
+section:nth-child(2){
+    background-color: slateblue;
+}
+section:nth-child(2){
+    background-color: tomato;
 }
