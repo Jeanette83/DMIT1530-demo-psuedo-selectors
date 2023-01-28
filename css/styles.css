@@ -21,15 +21,15 @@ section:nth-child(2){
 section:nth-child(2){
     background-color: khaki;
 }
-section:nth-child(2){
+section:nth-child(3){
     background-color: lightgreen;
 }
-section:nth-child(2){
+section:nth-child(4){
     background-color: lightseagreen;
 }
-section:nth-child(2){
+section:nth-child(5){
     background-color: slateblue;
 }
-section:nth-child(2){
-    background-color: tomato;
+section:nth-child(6){
+    background-color: purple;
 }
